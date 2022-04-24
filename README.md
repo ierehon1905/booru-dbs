@@ -4,6 +4,8 @@ Collection of different scans from booru sites
 
 ## Favorites table (gelbooru)
 
+Around 2818 unique users and around 999717 unique posts
+
 |     | item_id | user_id |
 | --- | ------- | ------- |
 | 0   | 7146390 | 1       |
